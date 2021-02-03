@@ -1,0 +1,34 @@
+- Emacs shortcuts
+  - C-x C-f open or create a file
+  - C-x C-c exit emacs
+  - C-x C-s save current file
+  - C-f move  forward one character
+  - C-b move backward one character
+  - C-m move to the next line
+  - C-p move to prev line
+  - M-f move forward one word
+  - M-b move backward one word
+  - C-e move to end of the line
+  - C-a move to beginning of the line
+  - M-< move to the beginning of the file
+  - M-> move to the end of the file
+  - Backspace deletes character before the cursor
+  - C-d delete character after the cursor
+  - M-Backspace deletes word after the cursor
+  - M-d deletes word after the cursor
+  - C-k deletes until the end of line
+  - C-y paste the deleted text
+  - C-SPC place a mark
+  - C-w delete text between mark and cursor
+  - C-y paste killed text
+  - M-y scroll through the kill ring
+  - C-/ undo
+  - M-v scroll a page backward
+  - C-v scroll a page forward
+  - C-g quit
+  - C-x 3 divide screen into two windows vertically
+  - C-x 2 divide screen into two windows horizontally
+  - C-x 1 kill all windows other than the current one
+  - C-x 0 kill current window
+  - C-x jump between windows
+  
